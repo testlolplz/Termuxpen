@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Framework
+.termuxpen/
+*.log
+*.backup
+*.new
+session.json
+
+# Generated files
+*.txt.tmp
+report_*.txt
+dorks_*.txt
+generated_wordlist.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Secrets
+.env
+config.local.json
