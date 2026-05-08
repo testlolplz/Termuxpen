@@ -1,0 +1,20 @@
+# Core dependencies
+requests>=2.28.0
+PyPDF2>=3.0.0
+
+# Optional: SSH bruteforce
+paramiko>=3.0.0
+
+# Optional: Image metadata
+Pillow>=10.0.0
+
+# Optional: QR codes
+qrcode>=7.4.0
+
+# Optional: Cryptography (for advanced features)
+cryptography>=41.0.0
+
+# Development dependencies (requirements-dev.txt)
+# pytest>=7.0.0
+# black>=23.0.0
+# flake8>=6.0.0
